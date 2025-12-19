@@ -1,0 +1,426 @@
+{
+  "pays": "Ouzbékistan",
+  "drapeau": "🇺🇿",
+  "symbole": "🕌",
+  "titre": "Samarkand, Échos de la Route de la Soie",
+  "budget_total": "2120€",
+  "duree": "14 jours",
+  "date_debut": "2026-01-02",
+  "date_fin": "2026-01-15",
+  "temps_vol": "10h à 15h depuis Francois, France avec escale",
+  "jours": [
+    {
+      "jour": 1,
+      "symbole": "✈️",
+      "titre": "Départ vers Samarkand",
+      "legende": "Votre aventure commence par un vol depuis la France, vous emportant vers les lointaines terres de l'Asie Centrale. Préparez-vous à traverser les fuseaux horaires et à vous immerger dans une culture millénaire. Ce jour est dédié au voyage, à l'anticipation des merveilles à venir et au confort de votre vol en classe économique.",
+      "lieu": "En vol",
+      "activites": [
+        "✈️ <strong>Départ de Francois, France</strong>: Enregistrement et embarquement pour votre vol international vers Samarkand, avec une escale prévue.",
+        "🍽️ <strong>Repas et détente à bord</strong>: Profitez des services à bord pour vous reposer et vous préparer à l'arrivée dans un nouveau continent."
+      ],
+      "illustration": "jour1.jpg",
+      "encarts": [
+        {
+          "symbole": "💡",
+          "titre": "Conseil de vol",
+          "texte": "Prévoyez un masque de sommeil et des bouchons d'oreille pour un repos optimal durant le vol long-courrier."
+        },
+        {
+          "symbole": "⌚",
+          "titre": "Décalage horaire",
+          "texte": "Samarkand est en UTC+5, soit 4 heures d'avance sur la France en janvier. Ajustez votre montre dès l'embarquement."
+        }
+      ]
+    },
+    {
+      "jour": 2,
+      "symbole": "🛬",
+      "titre": "Arrivée et premières impressions",
+      "legende": "Après un long voyage, vous atterrissez à Samarkand, la légendaire cité de la Route de la Soie. L'air frais de janvier vous accueille tandis que vous rejoignez votre hôtel. L'après-midi est consacrée à une première immersion douce, une balade autour de la place du Registan, pour capter l'essence de cette ville historique sans se presser.",
+      "lieu": "Samarkand",
+      "activites": [
+        "🛬 <strong>Arrivée à l'aéroport de Samarkand (SKD)</strong>: Formalités d'immigration et transfert vers votre hôtel 3 étoiles pour vous installer et vous rafraîchir.",
+        "🚶‍♂️ <strong>Première approche du Registan</strong>: Une balade légère autour de la place emblématique du Registan, admirant ses madrasas de l'extérieur sous la lumière du soir."
+      ],
+      "illustration": "jour2.jpg",
+      "encarts": [
+        {
+          "symbole": "🏨",
+          "titre": "Hébergement",
+          "texte": "Votre hôtel 3 étoiles offre un bon équilibre entre confort et authenticité, souvent avec un petit-déjeuner inclus."
+        },
+        {
+          "symbole": "🚖",
+          "titre": "Transport local",
+          "texte": "Les taxis sont abordables à Samarkand. N'hésitez pas à négocier le prix avant de monter."
+        }
+      ]
+    },
+    {
+      "jour": 3,
+      "symbole": "✨",
+      "titre": "Le Registan, cœur de Samarkand",
+      "legende": "Plongez au cœur de l'histoire en explorant la majestueuse place du Registan, véritable joyau architectural de l'Asie Centrale. Admirez les détails complexes des trois madrasas qui l'entourent, témoins de la grandeur de l'Empire timouride. Laissez-vous transporter par la beauté des mosaïques et la sérénité des lieux.",
+      "lieu": "Samarkand",
+      "activites": [
+        "🕌 <strong>Visite de la Madrasa Ulugh Beg</strong>: Explorez cette ancienne université islamique, célèbre pour son rôle dans l'astronomie et les sciences sous le règne d'Ulugh Beg.",
+        "🦁 <strong>Découverte de la Madrasa Sher-Dor</strong>: Admirez sa façade unique ornée de tigres (ou lions) chassant des gazelles, un motif rare dans l'art islamique.",
+        "🌟 <strong>Exploration de la Madrasa Tilya-Kori</strong>: Visitez cette madrasa qui servait aussi de mosquée, dont la cour et le mihrab sont richement décorés d'or."
+      ],
+      "illustration": "jour3.jpg",
+      "encarts": [
+        {
+          "symbole": "📸",
+          "titre": "Moment photo",
+          "texte": "Le Registan est particulièrement photogénique au lever et au coucher du soleil, lorsque les couleurs des mosaïques s'intensifient."
+        },
+        {
+          "symbole": "🗣️",
+          "titre": "Guide local",
+          "texte": "Envisagez de prendre un guide pour le Registan afin d'apprécier pleinement l'histoire et les légendes de chaque madrasa."
+        }
+      ]
+    },
+    {
+      "jour": 4,
+      "symbole": "👑",
+      "titre": "Sur les traces de Tamerlan",
+      "legende": "Aujourd'hui, vous explorez les monuments liés à Tamerlan, le grand conquérant et bâtisseur. Le mausolée de Gour Emir, sa dernière demeure, est un chef-d'œuvre d'architecture. Vous découvrirez également d'autres mausolées moins connus mais tout aussi fascinants, offrant un aperçu de la dynastie timouride et de son héritage artistique.",
+      "lieu": "Samarkand",
+      "activites": [
+        "💎 <strong>Visite du Mausolée de Gour Emir</strong>: Admirez la splendeur de ce mausolée, dernière demeure de Tamerlan et de ses descendants, avec sa coupole cannelée et ses intérieurs somptueux.",
+        "🏛️ <strong>Découverte du Mausolée de Rukhabad</strong>: Explorez ce mausolée plus modeste mais historique, abritant la tombe d'un mystique soufi et offrant une atmosphère de sérénité.",
+        "🚶‍♀️ <strong>Balade vers le Mausolée d'Ak-Saray</strong>: Observez les vestiges de ce mausolée du XVe siècle, dont la structure et les décorations témoignent de l'ingéniosité architecturale de l'époque."
+      ],
+      "illustration": "jour4.jpg",
+      "encarts": [
+        {
+          "symbole": "❄️",
+          "titre": "Météo en janvier",
+          "texte": "Les températures peuvent être froides en janvier (entre -5°C et 5°C). Prévoyez des vêtements chauds, un bonnet et des gants."
+        },
+        {
+          "symbole": "🚶",
+          "titre": "Distance",
+          "texte": "Ces sites sont relativement proches les uns des autres, permettant une exploration agréable à pied."
+        }
+      ]
+    },
+    {
+      "jour": 5,
+      "symbole": "🛍️",
+      "titre": "Mosquée, marché et spiritualité",
+      "legende": "La journée vous mène à la gigantesque mosquée Bibi-Khanym, puis au vibrant marché de Siab, où les saveurs et les couleurs de l'Ouzbékistan s'offrent à vous. L'après-midi est dédiée à la découverte de la mosquée Hazrat Khizr, offrant une vue panoramique sur la ville et une atmosphère paisible. Une immersion complète dans la vie locale.",
+      "lieu": "Samarkand",
+      "activites": [
+        "🕌 <strong>Exploration de la Mosquée Bibi-Khanym</strong>: Laissez-vous impressionner par les dimensions colossales de cette mosquée, construite par Tamerlan pour son épouse, et ses légendes fascinantes.",
+        "🍎 <strong>Flânerie au Bazar de Siab</strong>: Imprégnez-vous de l'ambiance animée de ce marché traditionnel, où vous trouverez épices, fruits secs, pains ronds (non) et souvenirs artisanaux.",
+        "🌅 <strong>Visite de la Mosquée Hazrat Khizr</strong>: Découvrez cette mosquée historique, reconstruite au XIXe siècle, offrant une vue imprenable sur Samarkand et le bazar."
+      ],
+      "illustration": "jour5.jpg",
+      "encarts": [
+        {
+          "symbole": " bargaining",
+          "titre": "Négociation au marché",
+          "texte": "La négociation est une pratique courante au bazar. N'hésitez pas à marchander avec le sourire pour obtenir de meilleurs prix."
+        },
+        {
+          "symbole": "🍞",
+          "titre": "Spécialité locale",
+          "texte": "Goûtez le \"non\", le pain traditionnel ouzbek, souvent décoré et délicieux, disponible au bazar."
+        }
+      ]
+    },
+    {
+      "jour": 6,
+      "symbole": "🌌",
+      "titre": "Nécropole céleste et savoir ancestral",
+      "legende": "Aujourd'hui, vous explorez la nécropole de Shah-i-Zinda, un ensemble de mausolées aux faïences éblouissantes, véritable musée à ciel ouvert. L'après-midi est consacrée à l'observatoire d'Ulugh Beg, témoin de l'âge d'or de l'astronomie islamique. Une journée entre spiritualité et science, révélant la richesse intellectuelle de Samarkand.",
+      "lieu": "Samarkand",
+      "activites": [
+        "✨ <strong>Visite de la Nécropole de Shah-i-Zinda</strong>: Parcourez cette allée de mausolées royaux et nobles, chacun orné de céramiques uniques et colorées, un lieu de pèlerinage et de beauté.",
+        "🔭 <strong>Découverte de l'Observatoire d'Ulugh Beg</strong>: Explorez les vestiges de cet observatoire du XVe siècle, où Ulugh Beg, petit-fils de Tamerlan, a réalisé des avancées majeures en astronomie."
+      ],
+      "illustration": "jour6.jpg",
+      "encarts": [
+        {
+          "symbole": "🙏",
+          "titre": "Respect des lieux",
+          "texte": "Shah-i-Zinda est un lieu sacré. Adoptez une tenue respectueuse (épaules et genoux couverts) et un comportement discret."
+        },
+        {
+          "symbole": "📚",
+          "titre": "Héritage scientifique",
+          "texte": "L'observatoire d'Ulugh Beg témoigne de l'importance de la science à Samarkand, bien avant l'Europe de la Renaissance."
+        }
+      ]
+    },
+    {
+      "jour": 7,
+      "symbole": "🏞️",
+      "titre": "Excursion à Shakhrisabz, ville natale de Tamerlan",
+      "legende": "Partez pour une journée d'excursion à Shakhrisabz, la ville natale de Tamerlan, classée au patrimoine mondial de l'UNESCO. Découvrez les ruines impressionnantes de son palais Ak-Saray et les complexes religieux qui témoignent de son ambition. Ce voyage vous offre un aperçu plus profond des origines du grand conquérant et de l'architecture timouride.",
+      "lieu": "Shakhrisabz",
+      "activites": [
+        "🏰 <strong>Exploration des ruines du Palais Ak-Saray</strong>: Admirez les vestiges de ce palais monumental, dont les portails imposants et les mosaïques bleues témoignent de sa grandeur passée.",
+        "🕌 <strong>Visite du Complexe Dorut Tilovat</strong>: Découvrez la mosquée Kok Gumbaz et le mausolée de Gumbazi Sayidon, des exemples magnifiques de l'architecture islamique du XVe siècle.",
+        "🚶‍♂️ <strong>Promenade dans le centre historique</strong>: Flânez dans les rues de Shakhrisabz, imprégnez-vous de l'atmosphère de cette ville chargée d'histoire et de légendes."
+      ],
+      "illustration": "jour7.jpg",
+      "encarts": [
+        {
+          "symbole": "🚗",
+          "titre": "Trajet",
+          "texte": "Le trajet en voiture de Samarkand à Shakhrisabz dure environ 1h30 à 2h. Prévoyez un départ matinal."
+        },
+        {
+          "symbole": "UNESCO",
+          "titre": "Patrimoine mondial",
+          "texte": "Shakhrisabz est inscrite au patrimoine mondial de l'UNESCO, soulignant son importance historique et culturelle."
+        }
+      ]
+    },
+    {
+      "jour": 8,
+      "symbole": "📜",
+      "titre": "Artisanat, histoire et légendes",
+      "legende": "Cette journée vous plonge dans l'artisanat traditionnel ouzbek avec la visite d'une fabrique de papier de soie, puis dans l'histoire ancienne de Samarkand au musée d'Afrasiyab. Vous terminerez par un lieu de pèlerinage unique, le mausolée de Saint Daniel, ajoutant une touche de mystère et de spiritualité à votre exploration.",
+      "lieu": "Samarkand",
+      "activites": [
+        "📄 <strong>Visite de la Fabrique de Papier de Konigil</strong>: Découvrez le processus ancestral de fabrication du papier de soie à partir de l'écorce de mûrier, une tradition revivifiée.",
+        "🏺 <strong>Exploration du Musée d'Afrasiyab</strong>: Plongez dans l'histoire pré-mongole de Samarkand à travers les artefacts et les fresques murales de l'ancienne cité d'Afrasiyab.",
+        "🙏 <strong>Découverte du Mausolée de Saint Daniel</strong>: Visitez ce lieu de pèlerinage unique, abritant un sarcophage exceptionnellement long, vénéré par les musulmans, chrétiens et juifs."
+      ],
+      "illustration": "jour8.jpg",
+      "encarts": [
+        {
+          "symbole": "🎁",
+          "titre": "Souvenirs",
+          "texte": "La fabrique de papier de Konigil est un excellent endroit pour acheter des souvenirs artisanaux uniques et de qualité."
+        },
+        {
+          "symbole": "💧",
+          "titre": "Source sacrée",
+          "texte": "Une source d'eau sacrée coule près du mausolée de Saint Daniel, réputée pour ses vertus curatives."
+        }
+      ]
+    },
+    {
+      "jour": 9,
+      "symbole": "🍽️",
+      "titre": "Immersion culinaire et détente",
+      "legende": "Après plusieurs jours d'exploration intense, cette journée est dédiée à une immersion plus profonde dans la culture ouzbèke à travers sa gastronomie. Participez à un cours de cuisine pour apprendre les secrets du Plov, plat national, puis profitez d'un après-midi libre pour flâner, faire du shopping ou simplement vous détendre et savourer l'ambiance de Samarkand.",
+      "lieu": "Samarkand",
+      "activites": [
+        "🍲 <strong>Cours de cuisine ouzbek (Plov)</strong>: Apprenez à préparer le célèbre Plov, plat emblématique de l'Ouzbékistan, et dégustez votre création pour le déjeuner.",
+        "🛍️ <strong>Shopping et exploration libre</strong>: Profitez de l'après-midi pour explorer les petites rues, dénicher des souvenirs au bazar ou simplement vous détendre dans un café local."
+      ],
+      "illustration": "jour9.jpg",
+      "encarts": [
+        {
+          "symbole": "👨‍🍳",
+          "titre": "Expérience culinaire",
+          "texte": "De nombreux hôtels ou restaurants proposent des cours de cuisine. Renseignez-vous auprès de votre hébergement."
+        },
+        {
+          "symbole": "☕",
+          "titre": "Pause thé",
+          "texte": "Les \"chaikhana\" (salons de thé) sont des lieux de vie sociale importants. N'hésitez pas à vous y arrêter pour une tasse de thé vert."
+        }
+      ]
+    },
+    {
+      "jour": 10,
+      "symbole": "🕊️",
+      "titre": "Spiritualité et art islamique",
+      "legende": "Cette journée vous emmène hors des sentiers battus pour découvrir le complexe mémorial de l'Imam Bukhari, un lieu de pèlerinage majeur pour les musulmans du monde entier. L'après-midi est consacrée à l'art et à l'histoire de la région au Musée d'Histoire et d'Art de Samarkand, offrant une perspective plus large sur le riche passé de la ville.",
+      "lieu": "Samarkand",
+      "activites": [
+        "🕌 <strong>Visite du Complexe Mémorial de l'Imam Bukhari</strong>: Explorez ce vaste complexe dédié à l'un des plus grands compilateurs de hadiths, un lieu de sérénité et de recueillement.",
+        "🖼️ <strong>Découverte du Musée d'Histoire et d'Art de Samarkand</strong>: Parcourez les collections de ce musée pour admirer des artefacts, des manuscrits et des œuvres d'art illustrant l'histoire de la région."
+      ],
+      "illustration": "jour10.jpg",
+      "encarts": [
+        {
+          "symbole": "🚌",
+          "titre": "Accès",
+          "texte": "Le complexe de l'Imam Bukhari est situé à environ 25 km de Samarkand. Un taxi ou un transport organisé est recommandé."
+        },
+        {
+          "symbole": "📖",
+          "titre": "Importance",
+          "texte": "L'Imam Bukhari est une figure centrale de l'islam sunnite, son recueil de hadiths étant considéré comme le plus authentique après le Coran."
+        }
+      ]
+    },
+    {
+      "jour": 11,
+      "symbole": "🌳",
+      "titre": "Promenade urbaine et vie locale",
+      "legende": "Profitez d'une journée plus décontractée pour explorer Samarkand à un rythme tranquille. Une promenade le long du Boulevard Universitaire vous offre un aperçu de la vie moderne de la ville, tandis qu'une visite dans une chaikhana traditionnelle vous immerge dans la culture du thé. La soirée pourra être animée par un spectacle culturel, si l'occasion se présente.",
+      "lieu": "Samarkand",
+      "activites": [
+        "🚶‍♀️ <strong>Balade le long du Boulevard Universitaire</strong>: Découvrez les bâtiments universitaires, les parcs et l'ambiance étudiante de Samarkand, une facette différente de la ville.",
+        "☕ <strong>Expérience dans une chaikhana locale</strong>: Détendez-vous dans un salon de thé traditionnel, observez la vie locale et savourez différentes variétés de thé ouzbek.",
+        "🎭 <strong>Spectacle culturel en soirée (optionnel)</strong>: Renseignez-vous sur les spectacles de musique et de danse traditionnelles qui peuvent être organisés dans certains restaurants ou théâtres."
+      ],
+      "illustration": "jour11.jpg",
+      "encarts": [
+        {
+          "symbole": "🗣️",
+          "titre": "Langues",
+          "texte": "L'ouzbek est la langue officielle, mais le russe est largement parlé, surtout dans les grandes villes. Quelques mots de russe peuvent être utiles."
+        },
+        {
+          "symbole": "🎶",
+          "titre": "Culture",
+          "texte": "Les spectacles de danse et de musique ouzbèkes sont colorés et énergiques, offrant un aperçu de l'art local."
+        }
+      ]
+    },
+    {
+      "jour": 12,
+      "symbole": "🔍",
+      "titre": "Trésors cachés et dernières découvertes",
+      "legende": "Cette journée est dédiée à la découverte de sites moins fréquentés mais tout aussi captivants, comme le Mausolée d'Ishratkhana, un joyau architectural souvent négligé. L'après-midi vous offre une dernière opportunité de flâner au bazar de Siab, peut-être pour trouver ce souvenir parfait ou simplement pour s'imprégner une dernière fois de l'ambiance locale avant le départ.",
+      "lieu": "Samarkand",
+      "activites": [
+        "🕌 <strong>Visite du Mausolée d'Ishratkhana</strong>: Explorez ce mausolée du XVe siècle, dont l'architecture et les décorations intérieures, bien que partiellement en ruines, révèlent une beauté exceptionnelle.",
+        "🛍️ <strong>Seconde immersion au Bazar de Siab</strong>: Profitez d'une dernière visite au marché pour acheter les derniers souvenirs, déguster des spécialités ou simplement observer l'effervescence."
+      ],
+      "illustration": "jour12.jpg",
+      "encarts": [
+        {
+          "symbole": "🤫",
+          "titre": "Lieux moins connus",
+          "texte": "Ishratkhana est moins touristique, offrant une expérience plus intime et authentique de l'architecture timouride."
+        },
+        {
+          "symbole": "🎁",
+          "titre": "Artisanat",
+          "texte": "Recherchez des céramiques, des textiles en soie (atlas, adras) ou des miniatures peintes, typiques de Samarkand."
+        }
+      ]
+    },
+    {
+      "jour": 13,
+      "symbole": "👋",
+      "titre": "Derniers instants et saveurs de Samarkand",
+      "legende": "Profitez de cette dernière journée pour faire vos derniers achats, revisiter un lieu coup de cœur ou simplement vous imprégner de l'atmosphère de Samarkand. Un dîner d'adieu vous permettra de savourer une dernière fois la délicieuse cuisine ouzbèke, clôturant en beauté ce voyage inoubliable sur la Route de la Soie. Préparez-vous ensuite pour votre départ.",
+      "lieu": "Samarkand",
+      "activites": [
+        "🎁 <strong>Achats de dernière minute et flânerie</strong>: Profitez de la matinée pour acheter les derniers souvenirs ou revisiter un site que vous avez particulièrement apprécié.",
+        "🍽️ <strong>Dîner d'adieu ouzbek</strong>: Savourez un dernier repas traditionnel dans un restaurant local, pour clôturer votre voyage en beauté avec les saveurs de l'Ouzbékistan."
+      ],
+      "illustration": "jour13.jpg",
+      "encarts": [
+        {
+          "symbole": "💰",
+          "titre": "Monnaie locale",
+          "texte": "La monnaie est le Som Ouzbek (UZS). Les cartes bancaires sont acceptées dans les grands hôtels et restaurants, mais prévoyez du liquide pour les petits commerces et taxis."
+        },
+        {
+          "symbole": "💡",
+          "titre": "Pourboires",
+          "texte": "Les pourboires ne sont pas obligatoires mais appréciés pour un bon service (environ 5-10% dans les restaurants)."
+        }
+      ]
+    },
+    {
+      "jour": 14,
+      "symbole": "🛫",
+      "titre": "Départ de Samarkand",
+      "legende": "C'est le moment de dire au revoir à Samarkand, la ville bleue qui a enchanté vos sens et nourri votre esprit. Après un dernier petit-déjeuner ouzbek, vous serez transféré à l'aéroport pour votre vol retour. Emportez avec vous des souvenirs impérissables des splendeurs de la Route de la Soie et de l'hospitalité ouzbèke.",
+      "lieu": "Samarkand / En vol",
+      "activites": [
+        "🍳 <strong>Petit-déjeuner à l'hôtel</strong>: Profitez d'un dernier petit-déjeuner ouzbek avant de finaliser vos bagages.",
+        "🛫 <strong>Transfert à l'aéroport et vol retour</strong>: Transfert vers l'aéroport de Samarkand pour votre vol international vers la France, avec des souvenirs plein la tête."
+      ],
+      "illustration": "jour14.jpg",
+      "encarts": [
+        {
+          "symbole": "✈️",
+          "titre": "Enregistrement",
+          "texte": "Présentez-vous à l'aéroport au moins 3 heures avant le départ pour les formalités d'enregistrement et de sécurité."
+        },
+        {
+          "symbole": "🛂",
+          "titre": "Documents",
+          "texte": "Assurez-vous d'avoir votre passeport, votre billet d'avion et tout document de voyage nécessaire à portée de main."
+        }
+      ]
+    }
+  ],
+  "detail_budget": [
+    {
+      "titre": "Budget vol:",
+      "legende": "850€/pers (Vol A/R depuis Francois, France, avec escale, en classe économique)",
+      "symbole": "🛬"
+    },
+    {
+      "titre": "Budget transports:",
+      "legende": "100€/pers (Taxis locaux, transports en commun, excursion à Shakhrisabz)",
+      "symbole": "🚆"
+    },
+    {
+      "titre": "Budget repas:",
+      "legende": "350€/pers (14 jours à 25€/jour, cuisine locale variée, restaurants de gamme moyenne)",
+      "symbole": "🥗"
+    },
+    {
+      "titre": "Budget logement:",
+      "legende": "650€/pers (13 nuits en hôtel 3 étoiles, base chambre double, soit environ 50€/nuit)",
+      "symbole": "🛏️"
+    },
+    {
+      "titre": "Budget activités:",
+      "legende": "170€/pers (Droits d'entrée aux sites historiques et musées, quelques expériences culturelles)",
+      "symbole": "🎭"
+    }
+  ],
+  "periodes_ideales": [
+    {
+      "titre": "Les périodes idéales pour ce séjour sont les mois d'Avril-Mai et Septembre-Octobre pour des températures douces. Janvier offre une atmosphère unique avec moins de foule, mais il fait froid.",
+      "symbole": "☀️"
+    }
+  ],
+  "infos_pratiques": [
+    {
+      "titre": "L'Ouzbékistan compte environ 35 millions d'habitants, dont 550 000 à Samarkand. La population est jeune et très accueillante.",
+      "symbole": "👨‍👩‍👧‍👦"
+    },
+    {
+      "titre": "La langue officielle est l'ouzbek, mais le russe est très largement parlé, surtout dans les villes. Quelques mots de russe seront appréciés.",
+      "symbole": "🗣️"
+    },
+    {
+      "titre": "La monnaie est le Som Ouzbek (UZS). Les cartes bancaires sont acceptées dans les grands établissements, mais prévoyez du liquide pour les marchés et petits commerces.",
+      "symbole": "💳"
+    },
+    {
+      "titre": "L'hospitalité est une valeur fondamentale en Ouzbékistan. Attendez-vous à être accueilli chaleureusement et à être souvent invité à boire le thé.",
+      "symbole": "🤝"
+    }
+  ],
+  "liens_utiles": [
+    {
+      "legende": "Informations officielles sur le tourisme en Ouzbékistan",
+      "titre": "Uzbekistan.travel",
+      "url": "https://uzbekistan.travel/fr/",
+      "symbole": "📘"
+    },
+    {
+      "legende": "Prévisions météo pour Samarkand",
+      "titre": "Météo Samarkand",
+      "url": "https://www.accuweather.com/fr/uz/samarkand/325062/weather-forecast/325062",
+      "symbole": "🌤️"
+    },
+    {
+      "legende": "Informations sur les visas pour l'Ouzbékistan",
+      "titre": "Ministère des Affaires Étrangères (France)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/ouzbekistan/",
+      "symbole": "🛂"
+    }
+  ]
+}
